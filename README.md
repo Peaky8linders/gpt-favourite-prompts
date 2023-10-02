@@ -1,6 +1,6 @@
-# Prompts and prompt templates used for interacting with LLMs. Based on Mckay Wrigley's favourite prompts.
+# Prompts and templates used for interacting with LLMs.
 
-This is a collection of prompts prompt templates that I use in my day to day work and side projects.
+This is a collection of prompts based on Mckay Wrigley's git repo, and prompt templates that I use in my day to day work and side projects.
 
 
 ## Usage
