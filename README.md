@@ -1,18 +1,7 @@
-# Mckay's Prompts
+# Prompts and prompt templates used for interacting with LLMs. Based on Mckay Wrigley's favourite prompts.
 
-This is a collection of prompts I use in my workflow.
+This is a collection of prompts prompt templates that I use in my day to day work and side projects.
 
-I'll be updating this frequently, so check back often!
-
-Latest update: 4/19/23
-
-## Beta
-
-I'm currently doing a beta test of this idea with some simple but useful prompts.
-
-I'll improve it as feedback comes in.
-
-Expect much more powerful prompts as I get this system ironed out.
 
 ## Usage
 
@@ -20,12 +9,7 @@ Download the json file [here](https://drive.google.com/file/d/142KoReNVMeoqcaZ3N
 
 Or, you can just copy and paste the prompts you want into ChatGPT.
 
-## Upcoming
-
-I'll be back soon with a system for selecting the prompts you want to use so that you don't have to import them all at once.
-
-I'm also building a system for everyone to create & share their own prompts.
 
 ## Contact
 
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
+If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/peaky8linders).
